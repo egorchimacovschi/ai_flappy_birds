@@ -1,6 +1,6 @@
 # AI_FLAPPY_BIRDS
 
-<img src="./data/GIF/Screencast From 2026-10-22 15-29-34.mp4" alt="AI flappy birds"  width="600">
+<img src="./data/GIF/GIF.gif" alt="AI flappy birds"  width="600">
 
 A Flappy Bird project built with Python and pygame, in two parts:
 
