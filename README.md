@@ -1,5 +1,7 @@
 # AI_FLAPPY_BIRDS
 
+<img src="./data/GIF/Screencast From 2026-10-22 15-29-34.mp4" alt="AI flappy birds"  width="600">
+
 A Flappy Bird project built with Python and pygame, in two parts:
 
 1. **Play it yourself** – a complete Flappy Bird clone: click to flap, animated bird, procedurally spawned pipes, scoring, and a restart screen.
@@ -136,4 +138,4 @@ The NEAT settings live in `config-feedforward.txt`. The ones most worth changing
 
 - Human mode: the score increases by 1 each time the bird fully passes a pipe. The game ends if the bird hits a pipe, the ground, or the top of the screen, and clicking the restart button resets the bird, pipes, and score.
 - If training runs for all 100 generations without any bird reaching the score limit, the script finishes without replaying a champion. Run it again, or raise `MAX_GENERATIONS`.
-- Training is random, so each run learns differently. Some runs solve the game in a few generations, others take longer.
+- Training is random, so each run learns differently. Some runs solve the game in a few generations, others take longer.x   x   
